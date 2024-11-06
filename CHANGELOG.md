@@ -8,7 +8,10 @@
 
 ### Bugfixes
 
--
+- Fixed a bug where sum_equals constraints would break if used with dimensions other than 
+  an increasing list from 0. E.g. constraining dimensions [0, 1, 2] would work, but 
+  constraining [1, 2, 3] would not. 
+  
 
 ## Version 1.0.1 (October 2024)
 
