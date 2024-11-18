@@ -1,6 +1,16 @@
 # Release history
 
-## Version 1.0.2 [unpublished]
+## Version 1.0.3 [unpublished]
+
+### Changes
+
+- 
+
+### Bugfixes
+
+-  
+
+## Version 1.0.2
 
 ### Changes
 
